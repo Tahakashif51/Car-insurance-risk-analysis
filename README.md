@@ -162,16 +162,16 @@ for Experience, Vehicle Type, Risk Tier.
 
 ---
 
-## Dashboard Screenshots
+## Dashboard
 
 ### Page 1 — Executive Overview
-![Overview](visuals/dashboard_page1_overview.png)
+![Executive Overview](Insurance%20risk%20analysis/visuals/dashboard_page1_overview.png)
 
 ### Page 2 — Risk Deep Dive
-![Risk](visuals/dashboard_page2_risk.png)
+![Risk Deep Dive](Insurance%20risk%20analysis/visuals/dashboard_page2_risk.png)
 
 ### Page 3 — Pricing Gap Analysis
-![Pricing](visuals/dashboard_page3_pricing.png)
+![Pricing Gap](Insurance%20risk%20analysis/visuals/dashboard_page3_pricing.png)
 
 ---
 
@@ -200,13 +200,34 @@ for Experience, Vehicle Type, Risk Tier.
 
 ---
 
-##  SQL Results
+##  SQL Query Results
 
-### Risk Segmentation (Query 04)
-![Risk SQL](visuals/sql-results/04_risk_segmentation_result.png)
+### Data Quality Check
+![Data Quality](Insurance%20risk%20analysis/visuals/sql-results/01_data_quality_result.png)
 
-### Pricing Gap (Query 07)
-![Pricing SQL](visuals/sql-results/07_pricing_gap_result.png)
+### Age Segmentation
+![Age Segmentation](Insurance%20risk%20analysis/visuals/sql-results/02_age_segmentation_result.png)
+
+### Driving Experience vs Claims
+![Experience Claims](Insurance%20risk%20analysis/visuals/sql-results/03_experience_claims_result.png)
+
+### Risk Segmentation
+![Risk Segmentation](Insurance%20risk%20analysis/visuals/sql-results/04_risk_segmentation_result.png)
+![Risk Segmentation 2](Insurance%20risk%20analysis/visuals/sql-results/04_risk_segmentation_result2.png)
+![Risk Segmentation 3](Insurance%20risk%20analysis/visuals/sql-results/04_risk_segmentation_result3.png)
+
+### Vehicle Profitability
+![Vehicle Profitability](Insurance%20risk%20analysis/visuals/sql-results/05_vehicle_profitability_result.png)
+![Vehicle Profitability 2](Insurance%20risk%20analysis/visuals/sql-results/05_vehicle_profitability_result2.png)
+
+### High Risk Customers
+![High Risk](Insurance%20risk%20analysis/visuals/sql-results/06_high_risk_result.png)
+![High Risk 2](Insurance%20risk%20analysis/visuals/sql-results/06_high_risk_result2.png)
+
+### Pricing Gap Analysis
+![Pricing Gap](Insurance%20risk%20analysis/visuals/sql-results/07_pricing_gap_result.png)
+![Pricing Gap 2](Insurance%20risk%20analysis/visuals/sql-results/07_pricing_gap_result2.png)
+![Pricing Gap 3](Insurance%20risk%20analysis/visuals/sql-results/07_pricing_gap_result3.png)
 
 ---
 
